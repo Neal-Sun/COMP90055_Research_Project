@@ -1,6 +1,8 @@
 # COMP90055_Research_Project
 ## DeepFake Detection
 This is the Git Repository for COMP90055 Research Project Team DeepFake Detection  
+And our work has been accepted by IEEE/ACM BDCAT 2020 Conference.
+
 Team Members:  
 Xingjian Zhang  SID: 1030767  
 Deng Pan        SID: 354059  
